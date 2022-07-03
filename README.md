@@ -3,6 +3,8 @@ Simple evolution simulator in C# with Unity
 
 This project was my A.P. Computer Science Priniciples project (I got a 4, I think it was the multiple choice part that got me). I made this in Unity after learning about the method of learning for neural networks called a genetic algorithm. 
 
+I originally designed this program with Java in mind as it is much stricter in terms of object oriented-ness. But as I didn't know how to implement graphical features in Java, I switched to using unity to actually be able to render things to the screen.
+
 Even though the graphics are not the best, and the physics could use some work, it achieves what it is supposed to for the most part.
 
 How the program works is as follows: 
